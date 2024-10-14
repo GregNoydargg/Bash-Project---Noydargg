@@ -1,0 +1,12 @@
+john.doe@example.com
+sarah.connor@cyberdyne.co
+alice123@domain.org
+james_bond@mi6.gov.uk
+random.user001@web.net
+contact@company.io
+johndoe@@example.com  
+@no-localpart.com      
+username@domain      
+invalid-email@.com     
+plainaddress.com       
+alice#domain.com  
