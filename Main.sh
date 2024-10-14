@@ -47,6 +47,12 @@ if [[ "$answer" == "Y" || "$answer" == "y" ]]; then
   echo "=============================="
   echo "Invalid emails:"
   echo "$invalid_emails"
+  echo "Valid emails:" > valid_emails.txt
+  echo "$valid_emails" >> valid_emails.txt
+  echo "Invalid emails:" > invalid_emails.txt
+  echo "$invalid_emails" >> invalid_emails.txt
+  echo "=============================="
+  echo "Results saved to valid_emails.txt and invalid_emails.txt"
 
 elif [[ "$answer" == "N" || "$answer" == "n" ]]; then
   echo "Run when you're ready!"

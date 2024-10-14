@@ -1,0 +1,7 @@
+Invalid emails:
+johndoe@@example.com  
+@no-localpart.com      
+username@domain      
+invalid-email@.com     
+plainaddress.com       
+alice#domain.com  
